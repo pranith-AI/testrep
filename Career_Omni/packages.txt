@@ -1,0 +1,9 @@
+libgbm1
+poppler-utils
+texlive-latex-base
+texlive-fonts-recommended
+texlive-fonts-extra
+python3-pip
+pdfminer.six
+python3-dev
+build-essential
